@@ -10,9 +10,9 @@ Dataset:This dataset is created for prediction of graduate admissions and the da
 https://www.kaggle.com/mohansacharya/graduate-admissions
 #
 
-Features in the dataset:
+# Features in the dataset:
 
-GRE Scores (290 to 340)
+GRE Scores (290 to 340) 
 TOEFL Scores (92 to 120)
 University Rating (1 to 5)
 Statement of Purpose (1 to 5)
